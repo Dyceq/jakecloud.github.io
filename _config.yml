@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 domain: jakecloud.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://dyceq.github.io/jakecloud.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
+url: http://jakecloud.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /REPOSITORY-NAME/ 
